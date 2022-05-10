@@ -350,7 +350,7 @@ a.work{
 .services__block{
     text-align: center;
     margin:2vw;
-    border: 2px dashed rgb(139, 139, 139);
+    border: 1px dashed rgb(139, 139, 139);
 }
 .services__block-1{
     display:flex;
